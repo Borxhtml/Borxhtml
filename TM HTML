@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tổng quát</title>
+	<link rel="icon" href="TMLOGO.png" type="image/x-icon" />
+	<meta charset="UTF-8">
+	<link rel="stylesheed" type="text/css" href="TM.css"/>
+	<title>Minh họa cách sử dụng thẻ ol</title>
+		<style>
+		head {
+			color: blue;
+			background-color: white;
+		}
+		body {
+			color: blue;
+			background-color: white;
+		}
+		#mucluc {
+			border-radius: 25px;
+			border: 2px solid blue;
+			padding: 20px;
+			margin: 20px;
+		}
+		</style>
+		<meta name="viewport" conten="width=device-width, initian-scale=1.0">
+</head>
+<body>
+	<h2>Đối với những lập trình viên, ngoài việc phải nhớ hết những cú pháp của các ngôn ngữ lập trình thì việc sử dụng một phần mềm lập trình tốt sẽ mang lại nhiều thành công trong công việc.</h2>
+	<h2>Nếu là một người mới làm quen với lập trình mà chưa biết lựa chọn phần mềm nào là tốt nhất thì các bạn có thể tham khảo bài viết một số phần mềm lập trình được nhiều lập trình viên sử dụng hiện nay.</h2>
+    <h1>         Mục lục</h1>
+	<div class="row"></div>
+		<section id="mucluc">
+			<var>
+				<a href="#1*">Copy</a>
+				<br>
+				<a href="#2*">7 ứng dụng lập trình java tốt nhất</a>
+				<br>
+				<a href="#3*">10 ứng dụng lập trình HTML tốt nhất</a>
+				<br>
+				<a href="#4*">15 ứng dụng lập trình C++ tốt nhất</a>
+				<br>
+				<a href="#5*">10 ngôn ngũ lập trình tốt nhất</a>
+				<br>
+				<a href="#6*">5 ứng dụng lập trình python tốt nhất</a>
+				<br>
+				<a href="#0*">Thử JS</a>
+			</var>
+		</section>
+		<h2>Những ứng dụng thường gặp</h2>
+		<a href="C:\Users\Admin\Downloads\Programs\VSCodeSetup-ia32-1.61.0.exe" download>
+		<a download="C:\Users\Admin\Downloads\Compressed\eclipse-java-oxygen-3a-win32.zip">Download Eclipse 32 bit</a>
+			<section id="2s">
+				<ul>
+					<h2 style="color: blue;">7 ứng dụng lập trình java tốt nhất</h2>
+					<img src="Eclipse IDElogo.png" alt="Eclipse Logo" width="250" height="250">
+					<li>Eclipse: <a href="https://www.eclipse.org/downloads/">Download Eclipse IDE</a></li>
+					<li>IntelliJ IDEA: <a href="https://www.jetbrains.com/idea/download/#section=windows">Download IntelliJ IDEA</a></li>
+					<li>NetBeans: <a href="https://netbeans.apache.org/download/nb125/nb125.html">Download NetBeans</a></li>
+					<li>JDeveloper: <a href="https://www.oracle.com/tools/downloads/jdeveloper-12c-downloads.html">Download JDeveloper</a></li>
+					<li>BlueJ: <a href="https://www.bluej.org/">Download BlueJ</a></li>
+					<li>MyEclipse: <a href="https://www.genuitec.com/products/myeclipse/download/">Download MyEclipse</a></li>
+					<li>Visual Studio Code: <a href="https://code.visualstudio.com/download">Download Visual Studio Code</a></li>
+				</ul>
+		</section>
+		<section id="3s>
+				<ul>
+					<h2 style="color: blue;">10 ứng dụng lập trình HTML tốt nhất</h2>
+					<img scr="Notepad++logo.png" alt="NotePad++ Logo" width="250" height="250">
+					<li>NotePad++: <a href="https://notepad-plus-plus.org/downloads/">Download NotePad++</a></li>
+					<li>Komodo Edit: <a href="https://www.activestate.com/products/komodo-ide/downloads/edit/">Download Komodo Edit</a></li>
+					<li>Eclipse: <a href="https://www.eclipse.org/downloads/">Download Eclipse</a></li>
+					<li>CoffeeCup Free HTML Editor: <a href="https://taimienphi.vn/download-coffeecup-free-html-editor-3220">Download CoffeeCup Free HTML Editor</a></li>
+					<li>Aptana Studio: <a href="http://www.aptana.com/">Download Aptana Studio</a></li>
+					<li>NetBeans: <a href="https://netbeans.apache.org/download/nb125/nb125.html">Download NetBeans</a></li>
+					<li>Microsoft Visual Studio Community: <a href="https://visualstudio.microsoft.com/vs/community/">Download Microsoft Visual Studio Community</a></li>
+					<li>BlueGriffon: <a href="http://www.bluegriffon.org/">Download BlueGriffon</a></li>
+					<li>Bluefish: <a href="https://bluefish.openoffice.nl/download.html">Download Bluefish</a></li>
+					<li>Emacs Profile: <a href="https://www.gnu.org/software/emacs/download.html">Download Emacs Profile</a></li>
+				</ul>
+		</section>
+		<section id="4s">
+				<ul>
+					<h2 style="color: blue;">15 ứng dụng lập trình C++ tốt nhất</h2>
+					<img src="VSClogo.png" alt="VSC logo" width="500" height="250">
+					<li>Microsoft Visual Studio: <a href="https://code.visualstudio.com/download">Download Microsoft Visual Studio</a></li>
+					<li>IDE Vim: <a href="https://www.vim.org/">Download IDE Vim</a></li>
+					<li>CodeLite: <a href="https://codelite.org/">Download CodeLite</a></li>
+					<li>Eclipse: <a href="https://www.eclipse.org/downloads/">Download Eclipse</a></li>
+					<li>Code::Blocks: <a href="https://www.codeblocks.org/downloads/">Download Code::Blocks</a></li>
+					<li>GNAT Programming Studio: <a href="https://www.adacore.com/gnatpro/toolsuite/gnatstudio">Download GNAT Programming Studio</a></li>
+					<li>Microsoft Visual Studio Code: <a href="https://code.visualstudio.com/download">Download Visual Studio Code</a></li>
+					<li>NetBeans 8 khác apache NetBeans: <a href="https://netbeans.apache.org/kb/docs/ide/overview-screencast.html">Download NetBeans 8</a></li>
+					<li>Qt Creator: <a href="https://www.qt.io/">Download Qt Creator</a></li>
+					<li>Sublime Text: <a href="https://www.sublimetext.com/download">Download Sublime Text</a></li>
+					<li>Dev C ++: <a href="http://www.bloodshed.net/">Download Dev C ++</a></li>
+					<li>C++ Builder: <a href="https://www.embarcadero.com/products/cbuilder/starter">Download C++ Builder</a></li>
+					<li>Anjuta: <a href="http://anjuta.org/">Download Anjuta</a></li>
+					<li>CLion: <a href="https://www.jetbrains.com/clion/">Download CLion</a></li>
+					<li>MonoDevelop: <a href="https://www.monodevelop.com/">Download MonoDevelop</a></li>
+				</ul>
+		</section>
+		<section id="5s">
+				<ul>
+					<h4>Bất kể ai khi mới tiếp xúc với lập trình cũng sẽ đặt ra câu hỏi “Nên học ngôn ngữ lập trình nào trước tiên?”. Nếu tìm trong các nhóm hoặc cộng đồng developer, bạn ngay lập tức sẽ nhận được hàng ngàn câu trả lời, tuy nhiên không phải ngôn ngữ lập trình nào cũng phù hợp với bạn.</h4>
+					<h4>Hãy tỉnh táo để nhận ra một điều: “tín đồ” của ngôn ngữ nào thì sẽ bình chọn cho ngôn ngữ đó – thứ mà chính họ đang sử dụng hàng ngày. Thay vì nghe theo một cách cảm tính, hãy đọc bài viết này để biết: </h4>
+					<img src="pythonlogo.jpg" alt="Python Logo">
+					<h2 style="color: blue;">10 ngôn ngữ lập trình tốt nhất</h2>
+					<li>JavaScript</li>
+					<li><a href="https://www.oracle.com/java/technologies/downloads/">Java</a></li>
+					<li><a href="https://www.python.org/download/">Python</a></li>
+					<li><a href="https://www.php.net/downloads.php/">PHP</a></li>
+					<li>C++</li>
+					<li>C#</li>
+					<li>TypeScript</li>
+					<li><a href="http://www.classicshell.net/downloads/">Shell</a></li>
+					<li><a href="https://rubyinstaller.org/downloads/">Ruby</a></li>
+					<li>Objective-C</li>
+					<h3>HTML ko phải ngôn ngữ lập trình</h3>
+					<p>HTML (viết tắt của từ Hypertext Markup Language, hay là "Ngôn ngữ Đánh dấu Siêu văn bản") là một ngôn ngữ đánh dấu được thiết kế ra để tạo nên các trang web trên World Wide Web. Nó có thể được trợ giúp bởi các công nghệ như CSS và các ngôn ngữ kịch bản giống như JavaScript.</p>
+					<p>Trong tin học, các tập tin định kiểu theo tầng – dịch từ tiếng Anh là Cascading Style Sheets (CSS) – được dùng để miêu tả cách trình bày các tài liệu viết bằng ngôn ngữ HTML và XHTML. Thay vì đặt các thẻ quy định kiểu dáng cho văn bản HTML (hoặc XHTML) ngay trong nội dung của nó, bạn nên sử dụng CSS(CSS vẫn là ngôn ngữ lập trình) </p>
+					<a href="https://www.jetbrains.com/products/">Ứng dụng của JetBrains</a>
+				</ul>
+		</section>
+		<section id="6s">
+				<ul>
+					<h2 style="color: blue;">5 ứng dụng lập trình Python tốt nhất</h2>
+					<img scr="pychamlogo.png" alt="Pycham Logo" width="250" height="250">
+					<li>PyDev: <a href="https://www.pydev.org/download.html">Download PyDev></li>
+					<li>Pycharm: <a href="https://www.jetbrains.com/pycharm/download/other.html">Download Pycharm</a></li>
+					<li>Visual Studio Code: <a href="https://code.visualstudio.com/download">Download Visual Studio Code</a></li>
+					<li>Sublime Text: <a href="https://www.sublimetext.com/3">Download Sublime Text</a></li>
+					<li>Atom / Atom IDE: <a href="https://atom.io/">Download Atom / Atom IDE</a></li>
+				</ul>
+		</section>
+			<h3>&copy; Bản quyền thuộc về Tuấn Minh</h3>
+			<h3>Tham khảo: wiki.
+		<section id="JS">
+			<h2>Command</h2>
+			<label for="txtCommend">Command:</label>
+			<input type="text" id="txtCommend">
+			<button name="button" type="button" id="Command">Command</button>
+			<script src="./name.js"></script>
+		</section>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		</section>
+	</div>
+	<script src="name.js"></script>
+</body>
+</html>
